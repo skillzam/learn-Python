@@ -1,4 +1,4 @@
-100+ Python challenging programming exercises
+Python Coding Exercises
 
 1.	Level description
 Level	Description
