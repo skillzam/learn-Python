@@ -7,7 +7,6 @@ Level 2	Intermediate means someone who has just learned Python, but already has 
 Level 3	Advanced. He should use Python to solve more complex problem using more rich libraries functions and data structures and algorithms. He is supposed to solve the problem using several Python standard packages and advanced techniques.
 
 2.	Problem template
-
 #----------------------------------------#
 Question
 Hints
